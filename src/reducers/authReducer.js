@@ -1,5 +1,3 @@
-export default (state = {}, action)=>{
-    console.log("Auth Reducer is running!");
+export default(state = {}, action)=>{
     return state;
 }
-
